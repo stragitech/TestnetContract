@@ -1,3 +1,2 @@
-# TestnetContract
- 
-The contract is on Ropsten testnet, its purpose is to distribute Ether evenly amongst employees with a similar task to reduce friction. 
+This contract is deployed on the Ethereum Proof of Authority Kovan testnet. It is designed as an equal profit sharing arrangment between three parties with the remainder sent to the originator of the transaction. Contract: 0xed9dccec2630d8b752b0ca993ae5ed3d00df29f2, 
+Address: 0x3fc5b1fd14d8cb09d8427d6fd1f59a7c9994fe16 .
